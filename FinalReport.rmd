@@ -57,7 +57,7 @@ table1 <- xtabs(~infected + treatment, data=females)
 rowPerc(table1)
 colPerc(table1)
 ```
-
+Three fifths of the women who got aids had taken the drug which tells us that the drug is ineffective at preventing aids.
 
 ## Inferential Results
 
